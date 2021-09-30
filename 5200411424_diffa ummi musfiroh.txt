@@ -1,0 +1,7 @@
+METODE DASAR\KLASIK
+RAD => Metode ini menekankan pada proses pembuatan aplikasi berdasarkan pembuatan prototype, iterasi, dan feedback yang berulang-ulang.
+       dengan begitu, aplikasi yang dibuat bisa dikembangkan dan diperbaiki dengan cepat.
+Incremental Model => model pengembangan sistem pada software engineering berdasarkan requirement software yang dipecah menjadi beberapa fungsi atau bagian 
+                     sehingga model pengembangannya secara bertahap(berulang).
+V-Shaped Model => didasarkan pada hubungan antara setiap fase pengembangan siklus hidup yang tercantum dalam model Watterfall
+                  yang merupakan pengembangan perangkat lunak dan fase yang terkait pengujian.(verifikasi dan validasi)
